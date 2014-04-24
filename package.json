@@ -1,0 +1,30 @@
+{
+  "name": "nails-scraper",
+  "version": "0.0.1",
+  "description": "Scraper service for nails-framework",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "0.15.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nails-framework/nails-scraper"
+  },
+  "keywords": [
+    "nails",
+    "nails-framework",
+    "nails-plugin",
+    "scraper",
+    "service",
+    "cheerio",
+    "jquery"
+  ],
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nails-framework/nails-scraper/issues"
+  },
+  "homepage": "https://github.com/nails-framework/nails-scraper"
+}
